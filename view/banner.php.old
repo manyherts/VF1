@@ -1,0 +1,5 @@
+<div id="main_banner">
+	<span id="image_banner"><a href="index.php"><image src="include/images/mundy_home_logo.png"/></a></span><h2><span></span><? echo $application_title; ?></h2>
+	<p id="p_banner">Version: <? echo $vf1version; ?></p>
+</div>
+
